@@ -16,9 +16,9 @@
 
 4) Material UI
 
-  DOCS : https://mui.com/
+   DOCS : https://mui.com/
 
-  **`npm install @mui/material`**
+   **`npm install @mui/material`**
 
 # How to Run
 **1st Step**
